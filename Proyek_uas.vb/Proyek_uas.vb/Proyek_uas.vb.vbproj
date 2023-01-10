@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{49D7A19D-05AD-43A9-A77C-26EBD3497950}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Proyek_uas.vb.My.MyApplication</StartupObject>
+    <RootNamespace>Proyek_uas.vb</RootNamespace>
+    <AssemblyName>Proyek_uas.vb</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Proyek_uas.vb.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Proyek_uas.vb.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmimunisasi.Designer.vb">
+      <DependentUpon>Frmimunisasi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmimunisasi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmjadwal.Designer.vb">
+      <DependentUpon>Frmjadwal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmjadwal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmmenu.Designer.vb">
+      <DependentUpon>Frmmenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmmenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmpbayi.Designer.vb">
+      <DependentUpon>Frmpbayi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmpbayi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmpemeriksaan.Designer.vb">
+      <DependentUpon>Frmpemeriksaan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmpemeriksaan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmpenimbangan.Designer.vb">
+      <DependentUpon>Frmpenimbangan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmpenimbangan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmpetugas.Designer.vb">
+      <DependentUpon>Frmpetugas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmpetugas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmpibuhamil.Designer.vb">
+      <DependentUpon>Frmpibuhamil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmpibuhamil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="koneksi.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmimunisasi.resx">
+      <DependentUpon>Frmimunisasi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmjadwal.resx">
+      <DependentUpon>Frmjadwal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmmenu.resx">
+      <DependentUpon>Frmmenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmpbayi.resx">
+      <DependentUpon>Frmpbayi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmpemeriksaan.resx">
+      <DependentUpon>Frmpemeriksaan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmpenimbangan.resx">
+      <DependentUpon>Frmpenimbangan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmpetugas.resx">
+      <DependentUpon>Frmpetugas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmpibuhamil.resx">
+      <DependentUpon>Frmpibuhamil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_bayi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_Ibu_Hamil.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imunisasi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timbangan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jadwal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jadwal 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dokter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\petugas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bayi2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ibu hamil1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imunisasi2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imunisasi3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timbang bayi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rahim.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,27 @@
+C:\Users\pahah\AppData\Local\Temporary Projects\Proyek_uas.vb\bin\Debug\Proyek_uas.vb.exe
+C:\Users\pahah\AppData\Local\Temporary Projects\Proyek_uas.vb\bin\Debug\Proyek_uas.vb.pdb
+C:\Users\pahah\AppData\Local\Temporary Projects\Proyek_uas.vb\bin\Debug\Proyek_uas.vb.xml
+C:\Users\pahah\AppData\Local\Temporary Projects\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.Form1.resources
+C:\Users\pahah\AppData\Local\Temporary Projects\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.Frmmenu.resources
+C:\Users\pahah\AppData\Local\Temporary Projects\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.Resources.resources
+C:\Users\pahah\AppData\Local\Temporary Projects\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.vbproj.GenerateResource.Cache
+C:\Users\pahah\AppData\Local\Temporary Projects\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.exe
+C:\Users\pahah\AppData\Local\Temporary Projects\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.xml
+C:\Users\pahah\AppData\Local\Temporary Projects\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.pdb
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\Project_Visual\Proyek_uas.vb\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.exe
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\Project_Visual\Proyek_uas.vb\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.xml
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\Project_Visual\Proyek_uas.vb\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.pdb
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\Project_Visual\Proyek_uas.vb\Proyek_uas.vb\bin\Debug\Proyek_uas.vb.exe
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\Project_Visual\Proyek_uas.vb\Proyek_uas.vb\bin\Debug\Proyek_uas.vb.pdb
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\Project_Visual\Proyek_uas.vb\Proyek_uas.vb\bin\Debug\Proyek_uas.vb.xml
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\Project_Visual\Proyek_uas.vb\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.Form1.resources
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\Project_Visual\Proyek_uas.vb\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.Frmmenu.resources
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\Project_Visual\Proyek_uas.vb\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.Frmpbayi.resources
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\Project_Visual\Proyek_uas.vb\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.Resources.resources
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\Project_Visual\Proyek_uas.vb\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.vbproj.GenerateResource.Cache
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\Project_Visual\Proyek_uas.vb\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.Frmimunisasi.resources
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\Project_Visual\Proyek_uas.vb\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.Frmpibuhamil.resources
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\Project_Visual\Proyek_uas.vb\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.Frmjadwal.resources
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\Project_Visual\Proyek_uas.vb\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.Frmpemeriksaan.resources
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\Project_Visual\Proyek_uas.vb\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.Frmpenimbangan.resources
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\Project_Visual\Proyek_uas.vb\Proyek_uas.vb\obj\x86\Debug\Proyek_uas.vb.Frmpetugas.resources
